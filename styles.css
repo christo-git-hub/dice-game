@@ -29,6 +29,12 @@ button{
   background-color: #FEFAE0;
   cursor: pointer;
 }
+
+button:active{
+  background-color: #C1D8C3;
+}
+
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
